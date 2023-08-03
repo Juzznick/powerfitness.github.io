@@ -381,4 +381,9 @@ h5 span{
     .display{
         display: block;
     }
+    .subheading{
+        color:rgb(255, 255, 255);
+        font-size: 1.5rem;
+        padding-bottom: .2rem;
+    }
 }
