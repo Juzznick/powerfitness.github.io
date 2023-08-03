@@ -193,6 +193,7 @@ h6{
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
+    text-align: center;
 
 }
 
@@ -214,6 +215,18 @@ h6{
     display: none;
 }
 
+.subheading{
+    color:rgb(255, 255, 255);
+    font-size: 3rem;
+    padding-bottom: .2rem;
+}
+.timeoptns{
+    color:rgb(187, 120, 196);
+}
+
+h5 span{
+    color:rgb(169, 73, 182);
+}
 
 
 @media (max-width: 1000px){
